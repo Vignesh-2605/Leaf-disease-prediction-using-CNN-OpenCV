@@ -1,0 +1,6 @@
+# Ignore trained models
+models/*.h5
+
+# Ignore datasets/zips
+Dataset/
+*.zip
